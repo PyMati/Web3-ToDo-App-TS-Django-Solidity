@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    background-color: #F0EDCC;
+}
+
+.errormsg {
+    color: red;
+}
+
+.full-site {
+    height: 100vh;
+}
+
+.login-holder {
+    border: solid;
+    border-radius: 5px;
+}
+
+.btn-padding {
+    margin: 15px;
+}

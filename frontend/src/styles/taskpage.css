@@ -1,0 +1,70 @@
+body, html {
+    height: 100%;
+    overflow: auto;
+}
+
+header {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #02343F;
+    color: #F0EDCC;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: solid;
+    border-color: #02343F;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.form-container {
+    color: #02343F;
+    background-color: #F0EDCC;
+    border: solid;
+    border-color: #F0EDCC;
+    font-size: large;
+    padding: 25px;
+}
+
+.btn-dark {
+    background: #02343F;
+    color: #F0EDCC;
+}
+
+.btn-padding {
+    margin-top: 10px;
+}
+
+.card {
+    justify-content: center;
+    background-color: #F0EDCC;
+    color: #02343F;
+    border-radius: 0px;
+}
+
+.textareares {
+    resize: none;
+}
+
+#title-input {
+    text-align: center;
+    width: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#desc-input {
+    margin-left: auto;
+    margin-right: auto;
+    height: 10rem;
+}
+
+#home {
+    color: #02343F;
+}
